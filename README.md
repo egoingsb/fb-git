@@ -1,4 +1,5 @@
 # 페이스북 이노베이션랩 정보공유 페이지
+# 이곳으로 오는 방법 => https://github.com/egoingsb/fb-git
 
 ## 설치해주세요.
 - https://git-scm.com/ 
